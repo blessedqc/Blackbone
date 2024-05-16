@@ -6,7 +6,7 @@
 
 namespace blackbone
 {
-/// <summary>
+/// <smmary>
 /// Function result or failure status
 /// </summary>
 template <typename T>
